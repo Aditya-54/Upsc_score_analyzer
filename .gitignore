@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# large scanned PDFs
+/gs_SetA.pdf
+/CSAT_setA.pdf

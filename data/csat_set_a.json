@@ -1,0 +1,1201 @@
+[
+  {
+    "question_no": 1,
+    "paper": "CSAT",
+    "question": "Question: X receives three coins of different denominations : 1, 2, 5, 10 and 20. If the total amount received by X is m, does X receive a coin of denomination 5 ?\n\nStatement I: m is not a prime number.\nStatement II: The sum of the digits of m is greater than 5.",
+    "options": {
+      "A": "Statement I alone is sufficient to answer, but Statement II alone is not",
+      "B": "Statement II alone is sufficient to answer, but Statement I alone is not",
+      "C": "Both Statements together are sufficient, but neither alone is sufficient",
+      "D": "Statements I and II together are not sufficient to answer"
+    },
+    "correct_answer": "A",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 2,
+    "paper": "CSAT",
+    "question": "Question: For two distinct real numbers x and y, which of them is bigger?\n\nStatement I: x + y > 0.\nStatement II: x - y < 0.",
+    "options": {
+      "A": "Statement I alone is sufficient to answer, but Statement II alone is not",
+      "B": "Statement II alone is sufficient to answer, but Statement I alone is not",
+      "C": "Both Statements together are sufficient, but neither alone is sufficient",
+      "D": "Statements I and II together are not sufficient to answer"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 3,
+    "paper": "CSAT",
+    "question": "Question: If x and y are integers, then is x even?\n\nStatement I: x * y is even.\nStatement II: 1 + x^2 + y^2 is odd.",
+    "options": {
+      "A": "Statement I alone is sufficient to answer, but Statement II alone is not",
+      "B": "Statement II alone is sufficient to answer, but Statement I alone is not",
+      "C": "Both Statements together are sufficient, but neither alone is sufficient",
+      "D": "Statements I and II together are not sufficient to answer"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 4,
+    "paper": "CSAT",
+    "question": "Question: X is a collection of certain odd numbers whereas Y is a collection of certain even numbers. T consists of the numbers all of which are either from X or from Y. Is every number of T from Y?\n\nStatement I: The sum of any two numbers belonging to T is even.\nStatement II: If both p and q are picked from T, then (p - 1)q is even.",
+    "options": {
+      "A": "Statement I alone is sufficient to answer, but Statement II alone is not",
+      "B": "Statement II alone is sufficient to answer, but Statement I alone is not",
+      "C": "Both Statements together are sufficient, but neither alone is sufficient",
+      "D": "Statements I and II together are not sufficient to answer"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 5,
+    "paper": "CSAT",
+    "question": "Question: If x, y and z are integers, each greater than 1, then is x a prime number?\n\nStatement I: x * y^2 = 116.\nStatement II: x * z = 261.",
+    "options": {
+      "A": "Statement I alone is sufficient to answer, but Statement II alone is not",
+      "B": "Statement II alone is sufficient to answer, but Statement I alone is not",
+      "C": "Both Statements together are sufficient, but neither alone is sufficient",
+      "D": "Statements I and II together are not sufficient to answer"
+    },
+    "correct_answer": "A",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 6,
+    "paper": "CSAT",
+    "question": "Directions for the following 5 (five) items : Each item in this section contains a question followed by two statements. Answer each item using the following instructions and mark your response on the Answer Sheet accordingly.",
+    "options": {
+      "A": "Select this option if the question",
+      "B": "can be answered using one of these",
+      "C": "statements alone, but cannot be",
+      "D": "answered using other statement"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 7,
+    "paper": "CSAT",
+    "question": "nspired by iconic temples like the Pakshineshwar Kali Temple and the Brahma Mandir, were treasure troves of regional artistry. Bengal's Pattachitra paintings, Assam's bamboo crafts, Tamil Nadu's Thanjavur paintings, and Madhya Pradesh's tribal sculpture\u2014all were showcased in these living galleries where 230 master artisans breathed life into them using age-old techniques, their hands shaping India's ancient history into creations to behold. 6. 7. Which of the following conclusions are valid? I. 2. 3. 4. Sanskriti Angans, Seven representing different regions of India, had been showcased in Kalagram. Regional artistry was recognised via the inspiration drawn from iconic temples. India's ancient history had been crafted by the contemporary craftsmanship of 230 artisans into creations to behold. Art forms from all regions of India had been showcased in these living galleries. Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "and 4",
+      "C": "1, 2 and 4",
+      "D": "I and 3"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 8,
+    "paper": "CSAT",
+    "question": "Which one of the following statements is not correct?",
+    "options": {
+      "A": "Paintings from four States of India",
+      "B": "have been mentioned.",
+      "C": "Stepping into Kalagram is likened",
+      "D": "to stepping into another world."
+    },
+    "correct_answer": "B",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 9,
+    "paper": "CSAT",
+    "question": "9. LO. The weight of X, in kg, is denoted by X. The weights of A, B, C, D, P, Q, R and S are measured. Given : A+B+C+D=17 A+C=6 P+Q+S+D=15 P+Q+R+B=17 P = R and Q = S Which one of the following statements is correct?",
+    "options": {
+      "A": "B and D together weigh less than the total weight of P and Q.",
+      "B": "P and Q together weigh more than the total weight of A and C.",
+      "C": "P weighs more than Q.",
+      "D": "Q weighs more than P."
+    },
+    "correct_answer": "D",
+    "topic": "Reading Comprehension",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 10,
+    "paper": "CSAT",
+    "question": "How many words can one form by shuffling the letters of the word QUEUE, if Q is always followed by U? The words thus formed need not necessarily have any meaning. (c) 10 (d) 12 X, Y and Z jump fonvard 4', 6' and 5', respectively. At 8 AM, they all land on mark 199'. How many times will they all land on the same mark (need not be at the same moment) between mark 195' and 1000', if all of them cross mark 1000' by 9 AM?",
+    "options": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14"
+    },
+    "correct_answer": "D",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 11,
+    "paper": "CSAT",
+    "question": "Directions for the next 2 (two) items : Read the following passage and answer the items that follow. Your answers should be based solely on the passage. Passage Sport is not just about winning medals or getting jobs through a sports quota. Today's generation is struggling with issues like depression and anxiety. Parents often say that their children are inactive and rarely leave the house. Sport can help tackle these problems. From sport you can learn time management, fitness, teamwork, coordination, and so much more. We need to develop a culture in which sport is seen as a way of life\u2014a path to building a healthier, happier society. 11. Which of the following conclusions are valid? 1. 2. 3. 4. Sport is more than just games; it is a way of life. Sport can help mitigate the problems of seclusion among the young. Earning laurels in sport can help one secure a job on the basis of an assigned quota. Standard corporate sector skills cannot be learnt through sport. Select the answer using the code given below.",
+    "options": {
+      "A": "I and 3 only",
+      "B": "2 and 4 only",
+      "C": "I, 2 and 4",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 12,
+    "paper": "CSAT",
+    "question": "13. Which of the following statements is/ are correct? 1. 2. 3. Parents are not encouraging enough when it comes to children playing sport. Participation in sporting activities can help develop life skills. Sport as a way of life can help evolve the very nature of society itself. Select the answer using the code given below.",
+    "options": {
+      "A": "I and 3",
+      "B": "2 and 3",
+      "C": "2 only",
+      "D": "3 only"
+    },
+    "correct_answer": "B",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 13,
+    "paper": "CSAT",
+    "question": "tions for the next 2 (two) items : the following passage and answer the that follow. Your answers should be solely on the passage. Passage is deflation done? Most countries use a called 'double deflation', where input output prices are deflated separately. der a manufacturer importing oil for use )duction. If oil prices fall, output prices do nd quantities remain the same, real value should not change. But if the same is used for inputs and outputs, as in , it would look as if the manufacturer had ne more productive. Which of the following statements is/ are correct? 1. 2. Real value should not change in the instance of static output cost and unchanged quantities against falling oil prices. Deflators are to be used separately for inputs and outputs, and this is a practice universally adopted by all economies. Select the answer using the code given below.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 14,
+    "paper": "CSAT",
+    "question": "A pattern formed by two characters a and b is repeated more than once in the following string : x b x ax a x x a x a x bab What is x x in the 7th and 8th positions from the left in the above string? Which of the following assumptions 17. is/are valid? 18.",
+    "options": {
+      "A": "aa",
+      "B": "ab",
+      "C": "ba",
+      "D": "bb"
+    },
+    "correct_answer": "A",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 15,
+    "paper": "CSAT",
+    "question": "I. 2. Deflation strategies can be used to make manufacturers appear to be doing better than they actually are. When input and output prices are both deflated against a single input price, it is referred to as 'double deflation'. Select the answer using th\u00e9 code given below.",
+    "options": {
+      "A": "I only",
+      "B": "2 only",
+      "C": "Both I and 2",
+      "D": "Neither I nor 2"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 16,
+    "paper": "CSAT",
+    "question": "If 10m x1000xn= 7525 x 3275 where n is not divisible by IO, then the value of m is",
+    "options": {
+      "A": "101",
+      "B": "111",
+      "C": "121",
+      "D": "131"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 17,
+    "paper": "CSAT",
+    "question": "The speed of a train T is 100 km per hour and the speed of a person P is 4 km per hour. T crosses P in 15 seconds, if P travels along the direction of motion of T. If P travels along the opposite direction of T, then in how much time does T cross P, in seconds, approximately?",
+    "options": {
+      "A": "13-51",
+      "B": "13-65",
+      "C": "13-85",
+      "D": "14-05"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 18,
+    "paper": "CSAT",
+    "question": "22. 23. 24. For \u2014 < x < y < 2, which of the following statements is/are always correct? 1 x 2 11. 2 x Select the answer using the code given below.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "Both I and II",
+      "D": "Neither I nor II"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 19,
+    "paper": "CSAT",
+    "question": "HMPV causes milder illness with deaths being very rare and with no long-term post-viral symptoms. 26. 27. 28. Which of the following conclusions is/ are valid? 1. 2. Though SARS-CoV-2 and HMPV are similar viruses with somewhat different epidemi010U, the former became a pandemic be\u00e9ause it was novel and people had not been exposed to it in the past. The two viruses have funda- mentally different impacts on human populations and should not therefore be dealt with in a similar manner. Select the answer using the code given below.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither I nor 2"
+    },
+    "correct_answer": "B",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 20,
+    "paper": "CSAT",
+    "question": "Which of the following reflect the intent of the writer in the above passage? 2 l. 2. 3. To evolve methodologies for objective analysis of the two viruses To establish the epidemiological similarities and differences between the two viruses To offer a better understanding of the remedies of HMPV when analysed in conjunction with SARS-CoV-2 Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 3",
+      "D": "None of the above"
+    },
+    "correct_answer": "C",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 21,
+    "paper": "CSAT",
+    "question": "3. 4. The two viruses are different from each other and this results in markedly different outcomes amongst those affected. Long-term impacts of the two viruses are dissimilar and this is an important differentiator between them. One of the common factors between the two viruses is seasonal specificity. Select the answer using the code given below.",
+    "options": {
+      "A": "I and 2 only",
+      "B": "1, 2 and 3",
+      "C": "3 and 4",
+      "D": "I and 3 only"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 22,
+    "paper": "CSAT",
+    "question": ". Three variables x, y and z take values 2, 3, 4 or 5 such that their values are always distinct. If M and N denote the largest possible value and the smallest possible value, respectively, for the expression {(x x y) + z}; then M \u2014 N is",
+    "options": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 23,
+    "paper": "CSAT",
+    "question": "Directions for the next 2 (two) items : Read the following passage and answer the items that follow. Your answers should be based solely on the passage. Passage India is starting to deploy AI for critical use cases such as weather forecasting, pest detection and control, and crop yield optimisation. However, penetration is limited to a small subset of tech-savvy farmers. In the US and in Europe, generative AI tools have started offering precision farming at scale, integrating large datasets to provide real-time agronomic insights. For at-scale integration and accessibility of AI tools in India, it would be helpful to develop Indian languages-based AI tools for smallholder farmers, partner with AgTechs to create affordable AI solutions, and disseminate Al-based advisory services through government programmes. 31. Which of the following assumptions is/ are valid? 1. 2. 3. Agricultural productivity has marched ahead in \u2022the West because of the economies of scale facilitated by the adoption of AI tools. Affordable AI tools rendered available in local languages can help Al-based solutions reach more and more small farmers. Though penetration is as yet low, critical application areas deploying AI tools are already in use in India. Select the answer using the code given below.",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "2 only",
+      "C": "1 and 3 only",
+      "D": "2 and 3 only"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 24,
+    "paper": "CSAT",
+    "question": "Which of the following statements is/ are not correct? 1. 2. 3. 4. Tech-savvy farmers will drive the AgTech companies of the future. The development of advisory services by the government programmes for the use of AI tools in -agriculture would be helpful. In the US and Europe, AI tools have replaced traditional agricultural practices. The integration of large datasets for use in real-time agronomic analysis is already a reality. Select the answer using the code given below.",
+    "options": {
+      "A": "I and 3 only",
+      "B": "1,3 and 4",
+      "C": "2 and 4",
+      "D": "3 only"
+    },
+    "correct_answer": "A",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 25,
+    "paper": "CSAT",
+    "question": "P, Q, R, S and T are ranked I to 5 (not necessarily in that order). The rank of P is 4, the rank of Qis not 5, the rank of R is 1, the rank of Sis not 2, the rank of T is not 3. Then which of the following is/ are correct? I. If the rank of S is 3, then that of T is 2. II. If the rank of Q is 3, then that of T is 5. Select the answer using the code given beloW.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "Both I and II",
+      "D": "Neither I nor II"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 26,
+    "paper": "CSAT",
+    "question": "Two identical straight rods are painted in five distinct colours so that each of them gets divided into five equal parts along the length. In one of them, the portions are marked Pl, P2, P3, P4 and P5 (not necessarily in that order) whereas in the other, they are marked QI, Q2, Q3, Q4 and Q5 (not necessarily in that order). When the rods are kept parallel to each other side by side, PI and Q3 match, P4 matches QI or Q2, and 94 matches P3 or P5. If Q3 and Q5 are adjacent, which of the following is/ are possible? I. Q3 is marked at the middle portion of the straight rod. II. P2 is marked at one of the extreme portions of the straight rod. Select the answer using the code given below.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "Both I and II",
+      "D": "Neither I nor II"
+    },
+    "correct_answer": "B",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 27,
+    "paper": "CSAT",
+    "question": "Seven persons A, B, C, D, E, F and G travel by three cars X, Y, Z. A and another two of them travel by X. Only E travels with. travels by Z, but \u2022B does no-c travel by Y. Besides, A and B do not travel by the same car. Then which of the following are correct? I. No one travels alone. II. Only D travels with F. III. Only C travels with B. Select the answer using the code given below.",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "All the three"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 28,
+    "paper": "CSAT",
+    "question": "There are four statements X, Y, Z and W. Their relations are as follows :\nIf X is incorrect, then so is Z;\nif Y is incorrect, then W is correct;\nif W is correct, then X is incorrect.\n\nWhich of the following is/are correct ?\nI. If X is correct, then so is Y.\nII. If Z is correct, then it is not necessary that Y is correct.\n\nSelect the answer using the code given below :",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "Both I and II",
+      "D": "Neither I nor II"
+    },
+    "correct_answer": "B",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 29,
+    "paper": "CSAT",
+    "question": "In an objective type question paper, 5 marks are awarded for a correct answer and 2 marks are deducted for a wrong answer. A student attempted all the questions and got a score of 69. Had he been awarded 4 marks for a correct answer and 1 mark deducted for a wrong answer, he would have scored 84. How many questions were there in the question paper?",
+    "options": {
+      "A": "99",
+      "B": "81",
+      "C": "84",
+      "D": "79"
+    },
+    "correct_answer": "C",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 30,
+    "paper": "CSAT",
+    "question": "Which of the following conclusions is/ are valid? 1. 2. Only a serious offence as categorised by the revised JJ Act, justifies the transfer of a case to the adult judicial system. The JJ Act, 2021, categorises an offence as a serious offence based on the maximum sentence it carries, rather than on the minimum sentence. Select the answer using the code given below.",
+    "options": {
+      "A": "I only",
+      "B": "2 only",
+      "C": "Both I and 2",
+      "D": "Neither I nor 2"
+    },
+    "correct_answer": "B",
+    "topic": "Reading Comprehension",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 31,
+    "paper": "CSAT",
+    "question": ". Which of the following statements is/are correct? I. 2. If an offence has no minimum prescribed punishment, it cannot be considered heinous as per the JJ Act, 2015. As per the JJ Act, 2021, an offence for which there is a provision for a maximum sentence of seven years or more, but no minimum sentence, is to be considered a serious offence. Select the answer using the code given below.",
+    "options": {
+      "A": "I only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither I nor 2"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 32,
+    "paper": "CSAT",
+    "question": "42. 43. An explosion takes place at a certain distance from an army camp. As soon as the sensor in the camp receives the sound of the explosion, a drone starts flying towards the spot of explosion. The drone clicks a picture from the spot and the camp receives it at the same time. Immediately another drone starts flying to the spot and it also sends a picture as soon as it reaches the spot. The two pictures were received at 5:02 PM and 5:05 PM, respectively. Ifthe speed of the drones is 30 m/s, at what time did the explosion take place? Assume that the speed of sound is 300 m/ s. (c) 4:58:42 PM The digit in the unit place of the number 6129 x 7307 is A person saves 10% of his salary every month. If his salary increases by 12% and the expenditure increases by 10%, then what will be the change in his saving per month?",
+    "options": {
+      "A": "20% increase",
+      "B": "30% increase",
+      "C": "03% decrease",
+      "D": "02% decrease"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 33,
+    "paper": "CSAT",
+    "question": "P has a son and a daughter. S is the mother of T. S is Rs spouse. Q and R are children of P. Then how is Q related to S?",
+    "options": {
+      "A": ". How",
+      "B": "Q is a sister of S",
+      "C": "Q is a daughter of S",
+      "D": "Q is the mother of S"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 34,
+    "paper": "CSAT",
+    "question": "keep clean fuel cheaper than dir5.r fuel. Now even as coal is banned, the price of natural gas makes industry uncompetitive. 46. Which of the follovving inferences is/ are correct? 1. 2. 3. The source of the enerU we consume is the key to the battle for cleaner air. Bans are effective where the will is strong and the people are convinced that such bans are for the greater good of society. There is judicial approval for a policy that intervenes fiscally to facilitate benevolent pricing for cleaner fuel. 47. Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 3",
+      "D": "1 only"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 35,
+    "paper": "CSAT",
+    "question": "Which of the following statements is/are correct? I. 2. 3. Thermal power stations in Delhi were required to summarily shut down. CNG supplies had to be assured once diesel vehicles were prohibited from plying. The Supreme Court banned the use of coal across the National Capital Region. Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 2",
+      "B": "3 only",
+      "C": "2 only",
+      "D": "2 and 3"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 36,
+    "paper": "CSAT",
+    "question": "49. SO. Consider the following statements : Every red is blue. Every blue is green. Every green is yellow. Which of the following statements denoted by P, Q and R are correct? P. Every blue is yellow. Q. Every red is green. R. Every red is yellow. Select the answer using the code given below.",
+    "options": {
+      "A": "P and Q only",
+      "B": "Q and R only",
+      "C": "P and R only",
+      "D": "P, Q and R"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 37,
+    "paper": "CSAT",
+    "question": "How many times does 5 appear in all two-digit positive integers?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 38,
+    "paper": "CSAT",
+    "question": "Which of the following conclusions, made on the basis of the given passage, is/are correct ?\n1. The advent of new customer-service technology had invariably sparked fears about job losses.\n2. Often it is found that instead of job losses, alternative channels for employee engagement are discovered while certain tasks are replaced by technology.\n3. The advent of technology inevitably leads to stressful outcomes.\n\nSelect the answer using the code given below :",
+    "options": {
+      "A": "1 and 3",
+      "B": "2 only",
+      "C": "3 only",
+      "D": "1 and 2"
+    },
+    "correct_answer": "B",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 39,
+    "paper": "CSAT",
+    "question": "Directions for the next 2 (two) items : Read the following passage and answer the items that follow. Your answers should be based solely on the passage. Passage Cattle from the nearby villages came to the common ground to graze, and there was still a cool freshness in the air. Hori took several deep breaths and thought of sitting down for a while, since he'd be dying of heat in the scorching qoo' wind the rest of the day. A number of farmers were eager to lease this bit of land and had offered a good price, but Rai Sahib\u2014God bless him\u2014had plainly told them it was reserved for grazing and would not be relinquished for any price. If he'd been one of those selfish Zamindars, he'd have said the cattle could go to hell, that there was no reason for him to miss the chance to make a little money. But the Rai Sahib still held to the old values, feeling that any landlord who didn't look after his tenants was less than human. 54. Which of the following conclusions is/ are correct? I. 2. 3. 4. All landlords essentially have some goodness trapped within them. The common grazing grounds of a village are intended for use by the cattle of that village. Landlords who believe in tradition tend to be more concerned about their tenants. Winds later in the day tend to be cooler post the hot winds of the morning. Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "3 only",
+      "D": "2 only"
+    },
+    "correct_answer": "B",
+    "topic": "Reading Comprehension",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 40,
+    "paper": "CSAT",
+    "question": "56. 29 Which of the following statements are not correct? I. 2. 3. 4. The landholdings of Rai Sahib were currently not being used for farming. Temperamentally, Rai Sahib was as greedy as other landlords. It cannot be ascertained that Rai Sahib could have made some money by leasing out the grazing land. It may be asserted that Rai Sahib valued his tenants and wanted to protect their livelihood. Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "I and 3 only",
+      "C": "3 and 4",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "C",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 41,
+    "paper": "CSAT",
+    "question": "A person facing the East travels 4 km straight and then turns right and travels 3 km, then further turns left and travels 2 km and finally turns left and travels 3 km. The minimum distance between the final point and the point, and the direction in which the person is facing at the final point are, respectively",
+    "options": {
+      "A": "12 km, East",
+      "B": "6 km, East",
+      "C": "8 km, North",
+      "D": "6 km, North"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 42,
+    "paper": "CSAT",
+    "question": "58. In a sequence of numbers, each number other than the first two is the sum of the two immediately preceding numbers from it. If the first two numbers in the sequence are 4 and 7, then the sixth number is",
+    "options": {
+      "A": "29",
+      "B": "37",
+      "C": "43",
+      "D": "47"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 43,
+    "paper": "CSAT",
+    "question": "The ratio of male to female workers in two companies A and Bis 13 : 10 and 7 : 5, respectively. If both-the companies have the same number of female workers, then what is the ratio of the total number of workers in A to those in B?",
+    "options": {
+      "A": "24: 23",
+      "B": "23:24",
+      "C": "18:17",
+      "D": "27: 18"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 44,
+    "paper": "CSAT",
+    "question": "60. 31 If the product of the HCF and LCM of two distinct numbers is the cube of one of the numbers, then which of the following statements is/are correct? I. The difference of the numbers is an even number. II. One of the numbers is a perfect square. Select the answer using the code given below.",
+    "options": {
+      "A": "I only",
+      "B": "11 only",
+      "C": "Both 1 and 11",
+      "D": "Neither I nor II"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 45,
+    "paper": "CSAT",
+    "question": "Leading man' usually refers to one who plays the lead role in a movie; in this instance the implication is that Hugh Grant is performing the role of not an action hero, but that of a resting one! Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "3 only"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 46,
+    "paper": "CSAT",
+    "question": "33 Which of the following statements is/ are correct? I. 2. 3. Hugh Grant was watching, from the Royal Box, the men's semifinal match on Centre Court between Flavio Cobolli and Novak Djokovic. The phrase 'unexpected ace' in the context uses a term from the game of tennis to highlight Hugh Grant's somewhat uncharacteristic act of catching forty winks'; an act that is viewed with opprobrium. Grant subjects the demands of society to the wisdom of his body. Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 2",
+      "B": "3 only",
+      "C": "2 and 3",
+      "D": "2 only"
+    },
+    "correct_answer": "C",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 47,
+    "paper": "CSAT",
+    "question": "4. In the fine-tuning phase, techn010U is exhausted, as it were, and both leaders and followers attempt to extract leftover benefits, leading to more or less similar per capita income levels. Industrial techn010U followed scavenging, which preceded hunting, which itself was followed by fanning. Select the answer using the code given below.",
+    "options": {
+      "A": "3 and 4 only",
+      "B": "1, 2, 3 and 4",
+      "C": "I and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct_answer": "C",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 48,
+    "paper": "CSAT",
+    "question": "Which of the following statements is/are correct? 64. 35 I. 2. 3. 4. The convergence model divides nations into three phases of economic progress. At the heart of the convergence theory is the closing of the gap between labour and productivity. Techn010U leaders typically have arrived earlier at different economic eras. The time period covered by the convergence theory presented herein encompasses, as mentioned, 4012200 years. Select the answer using the code given below.",
+    "options": {
+      "A": "2 and 4",
+      "B": "2 and 3",
+      "C": "3 only",
+      "D": "1, 3 and 4"
+    },
+    "correct_answer": "D",
+    "topic": "Reading Comprehension",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 49,
+    "paper": "CSAT",
+    "question": "66. 67. 68. An alloy P contains 20% copper and 80% zinc by weight. Another alloy Q contains 60% copper and 40% zinc by weight. A third alloy R is to be prepared from P and Q so that it contains equal amount of copper and zinc. In what ratio, amounts of P and Q be mixed in order to get R? A is a 2-digit number with different digits. B is also a 2-digit number and is obtained by reversing the digits of A. If A\u2014 B is a multiple of 27, where A > B, how many such different A's are possible? (c) 12 (d) 18 If ZERO is encoded as ADSN, then how do you encode STOP?",
+    "options": {
+      "A": "SPOT",
+      "B": "TSPO",
+      "C": "TSOP",
+      "D": "POST"
+    },
+    "correct_answer": "B",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 50,
+    "paper": "CSAT",
+    "question": "70. A train has to complete a journey of 800 km. If it meets a minor accident, its speed becomes half of the existing speed. If there is a mechanical defect, the speed becomes one-fourth of the existing speed. On its way, the train meets with a minor accident after 200 km; and 400 thereafter, it develops a mechanical defect. Had the train developed the mechanical defect after 200 km and met the minor accident 400 km thereafter, it would have taken 4 more hours to reach its destination. What was the original speed of the train in km per hour?",
+    "options": {
+      "A": "200",
+      "B": "190",
+      "C": "150",
+      "D": "100"
+    },
+    "correct_answer": "D",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 51,
+    "paper": "CSAT",
+    "question": "Consider the following three statements, namely SI, S2 and S3 : Sl. S2. S3. Protecting the environment is an existential exigency for humans, given the impact of environmental degradation on climate change. Scientific consensus has not been achieved with regard to the extent of the contribution of human intervention to climate change. Environmental activism includes climate alarmism and other extremist points of view that often become the focus of climate change deniers. Which of the following relationships based on the statements given above is/are correct? I. 2. 3. S3 is a counterpoint to Sl S3 is unconnected to Sl and S2 S2 could be the reason for S3 Select the answer using the code given below.",
+    "options": {
+      "A": "2 and 3 only",
+      "B": "I, 2 and 3",
+      "C": "1 and 2 only",
+      "D": "3 only"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 52,
+    "paper": "CSAT",
+    "question": "Match List\u2014I with List\u2014II and select the answer using the code given below the Lists : List-I (Tool of communication) A. B. C. D. 74. Memorandum Flyer Bcc Minutes Code \u2022",
+    "options": {
+      "A": "A",
+      "B": "1",
+      "C": "A",
+      "D": "1"
+    },
+    "correct_answer": "C",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 53,
+    "paper": "CSAT",
+    "question": "A 3 A 3 B 4 B 2 B 4 B 2 1. 2. 3. 4. c 2 c 4 c 2 c 4 List-n (Purpose) To record decisions To inform confiden- tially To intimate a directive To disseminate non- targeted information 3 3 1 1 Which among the following ac\u00e5ons would cons\u00e5tute the most appropriate directive(s) in resolving interpersonal conflict in an office with culturally diverse personnel? 1. 2. 3. Direct personnel to practise activities that are the cultural markers of diverse groups Allow conflicts to resolve naturally over time to set an appropriate precedent of leadership Encourage personnel to seek each other's perspectives Select the answer using the code given below.",
+    "options": {
+      "A": "1 and 3",
+      "B": "2 only",
+      "C": "3 only",
+      "D": "2 and 3"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 54,
+    "paper": "CSAT",
+    "question": "Match List\u2014I with List\u2014II and select the answer using the code given below the Lists . List-I (Barrier to communication) A. Semantic B. Cognitive C. Organisational D. Affective Code : 1. 2. 3. 4. List-U (Example) Lack of feedback Misunderstanding the meaning of a word Fear of social stigrna Information overload B 1 B 4 B 1 B 4 c 4 c 1 c 4 c 1 2 2 3 3 76. (a) (c) (d) You A 3 A 3 A 2 A 2 are required to design a 'questionnaire' to be filled on-location by visitors, based on the following objective while writing a report \u2022 'To determine the feasibility of setting up a family-oriented vacation resort in the vicinity of a lake destination in the mountains\" Which of the following heads would you include in the questionnaire to rnake it most appropriate for your purpose? I. Size of family 2. Budget 3. Number of earners in the family 4. Food allergies and dietary restrictions Select the answer using the code given below.",
+    "options": {
+      "A": "1",
+      "B": "and 3",
+      "C": "1,",
+      "D": "2 and 4"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 55,
+    "paper": "CSAT",
+    "question": "78. With reference to 'circular letters', which of the following statements is/ are correct? 1. 2. 3. 4. Circular letters \u2022 are usually addressed to a group of people. Non-standard and customized content is typical of circular letters. Circular letters are used to intimate appraisals and increments of employees within organisations. Circular letters less are cost-effective than personalised and specific recipient-directed letters. Select the, answer using the code given below.",
+    "options": {
+      "A": "I and 2",
+      "B": "2 and 4",
+      "C": "I, 3 and 4",
+      "D": "1 only"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 56,
+    "paper": "CSAT",
+    "question": "Three partners A, B and C entered into a business. A invested one-third of the capital for one-third duration. B invested one-fourth of the capital for one-fourth duration. C invested the remaining capital for the whole duration. Out of a profit of 17,000, how much profit will C get?",
+    "options": {
+      "A": "e 12,000",
+      "B": "e 10,000",
+      "C": "e 12,500",
+      "D": "z 10,750"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 57,
+    "paper": "CSAT",
+    "question": "There are two chemicals which do not react with each other. A container contains IO litres of the chemical A. One litre of this chemical is removed from it and one litre of the chemical B is poured. Then one litre of the mixture is removed from the container and one litre of Bis poured. If this process of replacing one litre of the mixture by one litre of B is performed once more, then what is the volume of B that is present in the container approximately (in percentage)?",
+    "options": {
+      "A": "25",
+      "B": "27",
+      "C": "29",
+      "D": "31"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 58,
+    "paper": "CSAT",
+    "question": "A shopkeeper employs a delivery boy and gives him a motorcycle for home delivery. For every delivery, the boy is given 5. At the end of the day, he also gets e 2 for every kilometre of the distance covered in the day. The boy wants to earn more than 500 a day, but does not want to travel more than 100 km. Which of the following numbers of deliveries would definitely meet his target?",
+    "options": {
+      "A": "80",
+      "B": "85",
+      "C": "90",
+      "D": "The question cannot be answered"
+    },
+    "correct_answer": "B",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 59,
+    "paper": "CSAT",
+    "question": "Consider the following statements based on the passage :\n1. Double deflation is the only scientific method to measure real growth rate in manufacturing sector.\n2. Single deflation overestimates the real value added of a manufacturer when oil prices fall.\n\nWhich of the statements given above is/are correct ?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 60,
+    "paper": "CSAT",
+    "question": "Which of the following assumptions is/are valid based on the passage ?\n1. Double deflation accounts for changes in the prices of both inputs and outputs separately.\n2. When input prices decrease but output prices remain constant, using a single deflator exaggerates real value addition.\n\nSelect the answer using the code given below :",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "topic": "Reading Comprehension",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 61,
+    "paper": "CSAT",
+    "question": "In a sequence of numbers, each number other than the first two is the sum of the two immediate preceding numbers. If the first number is 2 and the second number is 5, what is the eighth number in this sequence ?",
+    "options": {
+      "A": "73",
+      "B": "75",
+      "C": "77",
+      "D": "79"
+    },
+    "correct_answer": "C",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 62,
+    "paper": "CSAT",
+    "question": "A container contains 10 litres of milk. One litre of milk is replaced with water. Then, one litre of the mixture is replaced with water. If this process is repeated once more, what is the ratio of milk to water in the container ?",
+    "options": {
+      "A": "729 : 271",
+      "B": "729 : 300",
+      "C": "810 : 190",
+      "D": "810 : 271"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 63,
+    "paper": "CSAT",
+    "question": "If 'WHITE' is coded as 'XGJSF', then how do you encode 'BLACK' ?",
+    "options": {
+      "A": "CMBDL",
+      "B": "CKZDJ",
+      "C": "CLZDL"
+    },
+    "correct_answer": "A",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 64,
+    "paper": "CSAT",
+    "question": "Which of the following statements is/are correct ?\n1. The convergence model divides nations into three phases of economic progress.\n2. At the heart of the convergence theory is the closing of the gap between labor and productivity.\n3. Technology leaders typically have arrived earlier at different economic eras.\n\nSelect the answer using the code given below :",
+    "options": {
+      "A": "2 and 4",
+      "B": "2 and 3",
+      "C": "3 only",
+      "D": "1, 3 and 4"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 65,
+    "paper": "CSAT",
+    "question": "An alloy P contains 20% copper and 80% zinc by weight. Another alloy Q contains 60% copper and 40% zinc by weight. A third alloy R is to be prepared from P and Q so that it contains equal amount of copper and zinc. In what ratio, amounts of P and Q be mixed in order to get R ?",
+    "options": {
+      "A": "1 : 1",
+      "B": "1 : 3",
+      "C": "2 : 3",
+      "D": "3 : 1"
+    },
+    "correct_answer": "A",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 66,
+    "paper": "CSAT",
+    "question": "A is a 2-digit number with different digits. B is also a 2-digit number and is obtained by reversing the digits of A. If A - B is a multiple of 27, where A > B, how many such different A's are possible ?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    },
+    "correct_answer": "B",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 67,
+    "paper": "CSAT",
+    "question": "If ZERO is encoded as ADSN, then how do you encode STOP ?",
+    "options": {
+      "A": "SPOT",
+      "B": "TSPO",
+      "C": "TSOP",
+      "D": "POST"
+    },
+    "correct_answer": "B",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 68,
+    "paper": "CSAT",
+    "question": "There are three types of rectangular tiles : 3' x 3', 3' x 7' and 3' x 11'. An area of rectangular shape of dimensions 3' x 100' is to be covered using these tiles without breaking them. If x and y are the maximum and minimum numbers of tiles of various sizes, respectively, that can be used to cover the area exactly, then x - y is :",
+    "options": {
+      "A": "20",
+      "B": "12",
+      "C": "10",
+      "D": "24"
+    },
+    "correct_answer": "A",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 69,
+    "paper": "CSAT",
+    "question": "A train has to complete a journey of 800 km. If it meets a minor accident, its speed becomes half of the existing speed. If there is a mechanical defect, the speed becomes one-fourth of the existing speed. On its way, the train meets with a minor accident after 200 km; and 400 km thereafter, it develops a mechanical defect. Had the train developed the mechanical defect after 200 km and met the minor accident 400 km thereafter, it would have taken 4 more hours to reach its destination. What was the original speed of the train in km per hour ?",
+    "options": {
+      "A": "200",
+      "B": "190",
+      "C": "150",
+      "D": "100"
+    },
+    "correct_answer": "A",
+    "topic": "Reading Comprehension",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 70,
+    "paper": "CSAT",
+    "question": "In a recruitment process, the selection of candidates is based on their performance in three components. The weightages of the components 1, 2 and 3 are 0.2, 0.3 and 0.5 respectively. Use the data given below and find the cutoff score if exactly three candidates are to be selected :\nCandidate A: Score 5 in comp 1, 4 in comp 2, 6 in comp 3\nCandidate B: Score 1 in comp 1, 2 in comp 2, 4 in comp 3\nCandidate C: Score 2 in comp 1, 8 in comp 2, 6 in comp 3\nCandidate D: Score 9 in comp 1, 5 in comp 2, 8 in comp 3\nCandidate E: Score 4 in comp 1, 3 in comp 2, 2 in comp 3",
+    "options": {
+      "A": "5.1",
+      "B": "5.2",
+      "C": "5.3",
+      "D": "5.4"
+    },
+    "correct_answer": "A",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 71,
+    "paper": "CSAT",
+    "question": "Consider the following three statements, namely S1, S2 and S3 :\nS1. Protecting the environment is an existential exigency for humans, given the impact of environmental degradation on climate change.\nS2. Scientific consensus has not been achieved with regard to the extent of the contribution of human intervention to climate change.\nS3. Environmental activism includes climate alarmism and other extremist points of view that often become the focus of climate change deniers.\n\nWhich of the following relationships based on the statements given above is/are correct ?",
+    "options": {
+      "A": "2 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 and 2 only",
+      "D": "3 only"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 72,
+    "paper": "CSAT",
+    "question": "Match List-I with List-II and select the answer using the code given below the Lists :\nList-I (Relationship category) :\nA. Between cricket captain & team members\nB. Between judge & lawyers in court\nC. Between Vice Chancellor & Deputy Registrar\nD. Between peers & coworkers\n\nList-II (Communication characteristics) :\n1. Informal and firm\n2. Informal and open-ended\n3. Formal and open-ended\n4. Formal and close-ended",
+    "options": {
+      "A": "A-1, B-3, C-4, D-2",
+      "B": "A-1, B-4, C-3, D-2",
+      "C": "A-2, B-4, C-3, D-1",
+      "D": "A-2, B-3, C-4, D-1"
+    },
+    "correct_answer": "B",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 73,
+    "paper": "CSAT",
+    "question": "Match List-I with List-II and select the answer using the code given below the Lists :\nList-I (Tool of communication) :\nA. Memorandum\nB. Flyer\nC. Bcc (Blind carbon copy)\nD. Minutes\n\nList-II (Purpose) :\n1. To record decisions\n2. To inform confidentially\n3. To intimate a directive\n4. To disseminate non-targeted information",
+    "options": {
+      "A": "A-1, B-4, C-2, D-3",
+      "B": "A-1, B-2, C-4, D-3",
+      "C": "A-3, B-4, C-2, D-1",
+      "D": "A-3, B-2, C-4, D-1"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 74,
+    "paper": "CSAT",
+    "question": "Which among the following actions would constitute the most appropriate directive(s) in resolving interpersonal conflict in an office with culturally diverse personnel ?\n1. Direct personnel to practise activities that are the cultural markers of diverse groups\n2. Allow conflicts to resolve naturally over time to set an appropriate precedent of leadership\n3. Encourage personnel to seek each other's perspectives\n\nSelect the answer using the code given below :",
+    "options": {
+      "A": "1 and 3",
+      "B": "2 only",
+      "C": "3 only",
+      "D": "2 and 3"
+    },
+    "correct_answer": "C",
+    "topic": "Quant",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 75,
+    "paper": "CSAT",
+    "question": "Match List-I with List-II and select the answer using the code given below the Lists :\nList-I (Barrier to communication) :\nA. Semantic\nB. Cognitive\nC. Organisational\nD. Affective\n\nList-II (Example) :\n1. Lack of feedback\n2. Misunderstanding the meaning of a word\n3. Fear of social stigma\n4. Information overload",
+    "options": {
+      "A": "A-3, B-1, C-4, D-2",
+      "B": "A-3, B-4, C-1, D-2",
+      "C": "A-2, B-1, C-4, D-3",
+      "D": "A-2, B-4, C-1, D-3"
+    },
+    "correct_answer": "D",
+    "topic": "Quant",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 76,
+    "paper": "CSAT",
+    "question": "You are required to design a 'questionnaire' to be filled on-location by visitors, based on the following objective while writing a report :\n'To determine the feasibility of setting up a family-oriented vacation resort in the vicinity of a lake destination in the mountains'\nWhich of the following heads would you include in the questionnaire to make it most appropriate for your purpose ?\n1. Size of family\n2. Budget\n3. Number of earners in the family\n4. Food allergies and dietary restrictions\n\nSelect the answer using the code given below :",
+    "options": {
+      "A": "1 and 2",
+      "B": "1, 2 and 3",
+      "C": "1, 2 and 4",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct_answer": "C",
+    "topic": "Reasoning",
+    "difficulty": "Medium",
+    "dropped": false
+  },
+  {
+    "question_no": 77,
+    "paper": "CSAT",
+    "question": "With reference to 'circular letters', which of the following statements is/are correct ?\n1. Circular letters are usually addressed to a group of people.\n2. Non-standard and customized content is typical of circular letters.\n3. Circular letters are used to intimate appraisals and increments of employees within organisations.\n4. Circular letters are less cost-effective than personalised and specific recipient-directed letters.\n\nSelect the answer using the code given below :",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 and 4",
+      "C": "1, 3 and 4",
+      "D": "1 only"
+    },
+    "correct_answer": "D",
+    "topic": "Reasoning",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 78,
+    "paper": "CSAT",
+    "question": "Three partners A, B and C entered into a business. A invested one-third of the capital for one-third duration. B invested one-fourth of the capital for one-fourth duration. C invested the remaining capital for the whole duration. Out of a profit of 17,000, how much profit will C get ?",
+    "options": {
+      "A": "12,000",
+      "B": "10,000",
+      "C": "12,500",
+      "D": "10,750"
+    },
+    "correct_answer": "A",
+    "topic": "Reasoning",
+    "difficulty": "Hard",
+    "dropped": false
+  },
+  {
+    "question_no": 79,
+    "paper": "CSAT",
+    "question": "There are two chemicals which do not react with each other. A container contains 10 litres of the chemical A. One litre of this chemical is removed from it and one litre of the chemical B is poured. Then one litre of the mixture is removed from the container and one litre of B is poured. If this process of replacing one litre of the mixture by one litre of B is performed once more, then what is the volume of B that is present in the container approximately (in percentage) ?",
+    "options": {
+      "A": "25%",
+      "B": "27%",
+      "C": "29%",
+      "D": "31%"
+    },
+    "correct_answer": "B",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "dropped": false
+  },
+  {
+    "question_no": 80,
+    "paper": "CSAT",
+    "question": "A shopkeeper employs a delivery boy and gives him a motorcycle for home delivery. For every delivery, the boy is given 5. At the end of the day, he also gets 2 for every kilometre of the distance covered in the day. The boy wants to earn more than 500 a day, but does not want to travel more than 100 km. Which of the following numbers of deliveries would definitely meet his target ?",
+    "options": {
+      "A": "80",
+      "B": "85",
+      "C": "90",
+      "D": "The question cannot be answered due to insufficient data"
+    },
+    "correct_answer": "D",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "dropped": false
+  }
+]
